@@ -1,0 +1,6 @@
+task_id,line_id,duration_h,load_kw,road_req,facility,critical_weight
+PL1,L8,2.5,460,RR1,hospital,5.0
+PL2,L9,2.0,280,RR1,shelter,4.5
+PL3,L10,3.0,230,RR2,command,4.2
+PL4,L3,2.5,170,RR3,school,2.0
+PL5,L6,3.5,260,RR4,village-a,1.8

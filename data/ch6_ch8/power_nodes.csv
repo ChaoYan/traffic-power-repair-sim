@@ -1,0 +1,13 @@
+node_id,kind
+P1,substation
+P2,feeder
+P3,feeder
+P4,feeder
+P5,village_load
+P6,village_load
+P7,village_load
+P8,village_load
+P9,hospital
+P10,shelter
+P11,command_center
+P12,school

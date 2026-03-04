@@ -1,0 +1,16 @@
+node_id,x_km,y_km,role
+R1,0,0,depot
+R2,8,2,junction
+R3,16,4,junction
+R4,25,7,hospital_access
+R5,6,-7,junction
+R6,15,-6,junction
+R7,24,-5,junction
+R8,33,-4,shelter_access
+R9,11,-15,junction
+R10,20,-14,junction
+R11,30,-13,junction
+R12,39,-12,command_access
+R13,18,13,junction
+R14,30,14,junction
+R15,41,10,school_access
