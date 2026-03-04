@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+wandb/
+
+data/ch6_ch8/figures/*.png
+assets/fonts/

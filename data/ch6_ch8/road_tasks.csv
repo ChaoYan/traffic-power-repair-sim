@@ -1,0 +1,6 @@
+task_id,edge_id,duration_h
+RR1,E2,2.5
+RR2,E5,3.5
+RR3,E9,3.0
+RR4,E14,4.0
+RR5,E18,3.5
